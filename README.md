@@ -1,16 +1,19 @@
-## Hi there 👋
+# SiYu Huang (aestafis)
+*CS Undergraduate @ Nanjing University of Posts and Telecommunications (NJUPT)*
 
-<!--
-**aestafis/aestafis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Academic & Technical Focus
+-   **Core Studies:** Data Structures & Algorithms, Computer Organization, Operating Systems.
+-   **Current Interests:** System Architecture, Backend Development, distributed systems (exploring).
 
-Here are some ideas to get you started:
+### Working on / Learning
+-   Fiddling with Python (Django) and maybe Vue.js. Still figuring it out.
+-   NJUPT Coursework repos (some raw code, work in progress).
+-   Systematic learning on distributed systems principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Notes & Status
+-   Expected Graduation: June 2027 or 2028.
+-   Coffee is the primary input for output.
+
+---
+*My code doesn't work. I don't know why.*
+*My code works. I don't know why.*
